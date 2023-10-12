@@ -1,3 +1,7 @@
+# Used docs
+- https://guides.micronaut.io/latest/mn-application-aws-lambda-java11-gradle-java.html
+
+
 ## Micronaut 4.1.4 Documentation
 
 - [User Guide](https://docs.micronaut.io/4.1.4/guide/index.html)
