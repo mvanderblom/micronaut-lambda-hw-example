@@ -1,6 +1,15 @@
 # Used docs
 - https://guides.micronaut.io/latest/mn-application-aws-lambda-java11-gradle-java.html
 
+## TODO
+- [x] Create hello world lambda
+- [x] Deploy to AWS
+- [ ] Create Native image of lambda
+- [ ] Deploy to AWS
+- [ ] CDK the deployment
+- [ ] Expose to outside world
+- [ ] Add security with cognito
+
 
 ## Micronaut 4.1.4 Documentation
 
